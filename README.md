@@ -1,4 +1,7 @@
-## <marquee> Hi there I am Sapna </marquee>👋
+<marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 24px; color: #6c63ff;">
+  Hi, I'm Sapna  👋
+</marquee>
+
 
 <!--
 **EnggSapna/EnggSapna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
