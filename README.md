@@ -1,4 +1,5 @@
-# ![Hi, I’m Sapna](https://img.shields.io/badge/Hi%2C%20I%E2%80%99m%20Sapna-%236c63ff?style=for-the-badge&logo=github)
+# ![Hi, I’m Sapna](https://img.shields.io/badge/Hi%20I%E2%80%99m%20Sapna-%236c63ff?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
