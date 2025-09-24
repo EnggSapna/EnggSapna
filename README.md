@@ -41,9 +41,9 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sapna-sing)  
 - 🌐 [Portfolio Website](#)  
-- 📧 Email: your-email@example.com  
+- 📧 Email: sapnauim01@gmail.com  
 
 ---
 
