@@ -1,19 +1,40 @@
-<marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 24px; color: #6c63ff;">
-  Hi, I'm Sapna  👋
-</marquee>
+<!-- Animated Intro -->
+<p align="center">
+  <div class="marquee">
+    <span>Hii, I’m Sapna 👋</span>
+  </div>
+</p>
 
+<!-- About Me -->
+## 👩‍💻 About Me
+- 🔭 I’m currently working on **React**
+- 🌱 I’m currently learning **Playwright & API Testing**
+- 👯 I’m looking to collaborate on **Development or Testing Projects**
+- 💬 Ask me about **JavaScript, React, API Testing, Playwright**
+- ⚡ Fun fact: *I love solving problems step by step, just like debugging code!*
 
-<!--
-**EnggSapna/EnggSapna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, jQuery, AJAX  
+**Backend:** Node.js, Express.js, Database Connectivity (MongoDB, SQL)  
+**Testing:** Playwright, REST Assured, Postman  
+**Version Control:** Git & GitHub  
 
-- 🔭 I’m currently working on React 
-- 🌱 I’m currently learning Playwright , API Testing 
-- 👯 I’m looking to collaborate on Development or Testing Related Projects 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Projects
+- 🔹 [React Notes & Assignments](#) – Hands-on learning with solved assignments.  
+- 🔹 [AJAX & jQuery Demos](#) – Practice code for web interactivity.  
+- 🔹 [Database Connectivity](#) – Examples of connecting apps with MongoDB & SQL.  
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](#)  
+- 📧 Email: *your-email@example.com*  
+- 🌐 [Portfolio Website](#)  
+
+---
+
+⭐️ From [EnggSapna](https://github.com/EnggSapna)
