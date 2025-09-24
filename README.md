@@ -5,7 +5,8 @@
   </div>
 </p> -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Hi, I am Sapna" width="400"/>
+  ![Hi, I’m Sapna](https://img.shields.io/badge/Hi%2C%20I%E2%80%99m%20Sapna-%236c63ff?style=for-the-badge&logo=github)
+
 </p>
 
 <!-- About Me -->
