@@ -1,8 +1,11 @@
 <!-- Animated Intro -->
-<p align="center">
+<!-- <p align="center">
   <div class="marquee">
     <span>Hii, I’m Sapna 👋</span>
   </div>
+</p> -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Hi, I am Sapna" width="400"/>
 </p>
 
 <!-- About Me -->
