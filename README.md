@@ -4,7 +4,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Full stack .Net Applications with AI**
 - 🌱 I’m currently learning **Playwright & API Testing**
 - 👯 I’m looking to collaborate on **Development or Testing Projects**
 - 💬 Ask me about **JavaScript, React, API Testing, Playwright**
